@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:6366f1&height=150&section=header&text=Hi%2C+I'm+Kyle+Jansen+Emmanuel+S.+Guillano!&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:6366f1&height=150&section=header&text=Hi%2C+I'm+Kyle+Jansen+Guillano!&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 
 ### BS Information Technology Student | Web & Backend Developer | Laravel & PHP Enthusiast
 
