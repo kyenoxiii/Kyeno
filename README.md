@@ -78,4 +78,4 @@
 
 ---
 
-⭐ Open to internships, junior dev roles, and collaboration projects.
+⭐ Open for Junior dev roles, and collaboration & contract projects.
