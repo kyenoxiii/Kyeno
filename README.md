@@ -12,7 +12,7 @@
 
 ## 🧠 About Me
 
-- 🎓 4th Year **BS Information Technology Student** at **Cavite State University – Trece Martires City Campus**  
+- 🎓 Graduate of **BS Information Technology Student** at **Cavite State University – Trece Martires City Campus**  
 - 🏅 **Dean’s Lister** (Freshman & Sophomore Year)  
 - 💻 Passionate about **web-based system development, backend programming, and database design**  
 - 🛠️ Experienced in building **management systems and practical IT solutions**  
@@ -41,12 +41,10 @@
 
 ## 🛠️ Featured Projects
 
-- 🚗 **Vehiscan-RFID** – Web-Based RFID Vehicle & Driver Verification System *(Capstone)*  
-- 📱 **MentorCode** – Mobile Web Platform for Coding Bootcamps & Mentorship  
+- 🚗 **Vehiscan-RFID** – Web-Based RFID Vehicle & Driver Verification System *(Capstone)*   
 - 📚 **Library Information System**  
 - 📦 **Inventory Management System**  
 - 🎬 **Movie Reservation System**  
-- 🏨 **Hotel Management System**  
 
 ---
 
